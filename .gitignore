@@ -57,3 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+#example files
+example-exceeds.html
+example-meets.html
+student-list-examples
